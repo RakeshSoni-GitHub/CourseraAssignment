@@ -1,0 +1,49 @@
+Course 1 - The Data Scientist’s Toolbox:
+Quiz 1:-
+
+1. Question 1
+Which of the following are courses in the Data Science Specialization? Select all that apply.
+Python Programming
+Statistical Inference
+Introduction to Hadoop
+Exploratory Data Analysis
+
+Ans:- ALL of the Above
+
+2. Question 2
+Why are we using R for the course track? Select all that apply.
+R is the best cloud computing language.
+Packages are easy to install and "play nicely" together.
+R is one of the most widely used programming languages for Data Science.
+R is the only programming language data scientists use.
+
+Ans:- ALL of the Above
+
+3. Question 3
+What are good ways to find answers to questions in this course track? Select all that apply
+Posting to the course discussion forum
+Searching Google.
+Searching Stack Overflow
+Emailing the community TAs
+Emailing your instructors
+
+Ans:- ALL of the Above
+
+4. Question 4
+What are characteristics of good questions on the message boards? Select all that apply.
+Is very specific.
+Is insulting or rude.
+Is polite and courteous.
+Is an exact homework question.
+
+Ans:- ALL of the Above
+
+5. Question 5
+Which of the following packages provides machine learning functionality? Select all that apply
+rpart
+slidify
+caret
+filehash
+lubridate
+
+Ans:- ALL of the Above
